@@ -3,12 +3,12 @@
   "startmenu.new_game": "FUN GAME",
   "startmenu.multiplayer": "TRYHARD GAME",
   "startmenu.resume_game": "RESUME FUN GAME",
-  "startmenu.settings": "Settings",
-  "startmenu.high_score": "High Score",
-  "startmenu.throne_room": "Throne Room",
-  "startmenu.about": "About",
+  "startmenu.settings": "How Work?",
+  "startmenu.high_score": "Big Scores",
+  "startmenu.throne_room": "Tryhard Room",
+  "startmenu.about": "Who?",
 
-  "news.title": "POLYTOPIA NEWS",
+  "news.title": "NEWS",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
   "gamemodepicker.title": "GAME MODE",
 
